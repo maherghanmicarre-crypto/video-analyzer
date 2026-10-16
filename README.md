@@ -11,7 +11,7 @@ Lets Claude "watch" and analyze videos across **image + text + audio**. Claude c
 
 **Claude Code:**
 ```bash
-git clone https://github.com/<maherghanmicarre-crypto>/video-analyzer ~/.claude/skills/video-analyzer
+git clone https://github.com/maherghanmicarre-crypto/video-analyzer ~/.claude/skills/video-analyzer
 ```
 
 ## Requirements
